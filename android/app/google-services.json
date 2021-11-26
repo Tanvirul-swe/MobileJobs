@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "677749035370",
+    "project_id": "mobilejob-e2644",
+    "storage_bucket": "mobilejob-e2644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677749035370:android:cb2201644242bf10d5d513",
+        "android_client_info": {
+          "package_name": "com.example.mobilejob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677749035370-t2ot7bhlr34f6eo088lajf191p0fq878.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ua8Lefe-c2m7RMza0HD0Mog52uBrFp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677749035370-t2ot7bhlr34f6eo088lajf191p0fq878.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
